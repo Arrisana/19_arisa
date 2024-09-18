@@ -1,0 +1,8 @@
+dock -v
+docker run hello-world
+docker run busybox ping google.com
+docker stop f4b86490204e
+docker pull busybox
+docker creat busybox
+docker run -p 8800:00 nginx
+docker run -d -p 7800:00 nginx
